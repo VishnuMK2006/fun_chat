@@ -37,7 +37,7 @@ pm2 start server.js --name "chat"
 
 ### Custom Port
 ```bash
-PORT=8080 node server.js
+[10.1.99.25:3000](http://10.1.99.25:3000/dashboard.html)
 ```
 
 ## Features
